@@ -25,7 +25,6 @@ function crabs ()
   %initialize graphics handles by drawing the captain and crab
     captGraphics = drawCapt(xCapt,yCapt,thetaCapt,sizeCapt);
 
-
    endfunction
 
 

@@ -1,4 +1,7 @@
 function crabs ()
+
+% Author: Ken Owens
+
  % crabs is a kids computer game where a fishermam, called the captain, hunts for a very clever crab.
  % To run the code type crabs in the command window and click the command window.
 
